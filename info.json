@@ -1,0 +1,12 @@
+{
+    "name": "alternating_quickbar",
+    "version": "1.0.0",
+    "title": "Alternating Quickbar",
+    "author": "Aidiakapi",
+    "homepage": "https://gitlab.com/Aidiakapi/alternating_quickbar",
+    "description": "Changes the behavior of quickbar swapping so that instead of rotating, it swaps in pairs, and then rotates the pairs.",
+    "factorio_version": "0.15",
+    "dependencies": [
+        "base >= 0.15"
+    ]
+}
